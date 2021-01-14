@@ -1,0 +1,210 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #000000;
+  background-color: #aaaaaa;
+  /* background-image: url("https://www.transparenttextures.com/patterns/carbon-fibre-big.png"); */
+  background-image: url("../images/slide3.jpg");
+  min-height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+#about {
+  background-color: #eeeeee;
+  color: #1a1a1a;
+  padding: 80px 0;
+  opacity: .85;
+}
+
+#navigation {
+  background-color: #6b6b6b;
+  color: #2b2b2b;
+  padding: 20px 30px 10px;
+}
+
+#navigation li {
+  padding: 0 23px;
+}
+
+#CTA {
+  background-color: #eeeeee;
+  padding: 50px 0 70px;
+  opacity: .85;
+}
+
+#contact {
+  padding: 60px 0;
+  background-color: #aaaaaa;
+  background-image: url("https://www.transparenttextures.com/patterns/carbon-fibre-big.png");
+}
+
+#Products {
+  padding: 30px 0;
+}
+
+#Technology {
+  padding: 30px 0;
+}
+
+#technologySpot {
+  margin: 80px 0 20px;
+}
+
+#productSpot {
+  margin-bottom: 20px;
+}
+
+.loader {
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 1000;
+}
+
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+  color: #eeeeee;
+  text-shadow: 2px 2px #2b2b2b;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  color: #1a1a1a;
+  text-shadow: 2px 2px #2b2b2b;
+  font-weight: bold;
+}
+
+.navbar-brand,
+.navbar-brand:hover {
+  font-family: 'Lobster', cursive;
+  font-size: 2.7rem;
+  color: #eeeeee;
+  font-weight: normal;
+  text-shadow: 4px 4px #2b2b2b;
+  margin: -8px 35px 0 25px;
+}
+
+.navbar-toggler-icon {
+  background-size: 100%;
+  background-image: url(../images/menu.png);
+}
+
+.headingBar {
+  /* background-image: url("../images/headingImage.jpg"); */
+  /* opacity: .7; */
+  background-size: cover;
+  /* background-color: #2b2b2b; */
+  width: 100%;
+  padding: 30px;
+  position: relative;
+  display: inline-block;
+}
+
+.heading {
+  font-family: 'Lobster', cursive;
+  font-size: 5rem;
+  color: #ffffff;
+  font-weight: normal;
+  text-shadow: 2px 4px #2b2b2b;
+  margin: 25px 25px 15px 0;
+}
+
+.subHeading {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #ffffff;
+  font-weight: bold;
+  text-shadow: 2px 4px #2b2b2b;
+  margin: 0 25px 25px 0;
+  letter-spacing: 2px;
+}
+
+.ctaHeading {
+  font-family: 'Lobster', cursive;
+  font-size: 7rem;
+  color: #8b8b8b;
+  text-shadow: 2px 4px #2b2b2b;
+  font-weight: normal;
+}
+
+.ctaSubheading {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.75rem;
+  color: #4b4b4b;
+  font-weight: bold;
+}
+
+.space {
+  padding: 10px;
+  background-color: #aaaaaa;
+  background-image: url("https://www.transparenttextures.com/patterns/carbon-fibre-big.png");
+}
+
+.spaceLarge {
+  padding: 25px;
+  background-color: #aaaaaa;
+  background-image: url("https://www.transparenttextures.com/patterns/carbon-fibre-big.png");
+}
+
+.bottomContainer {
+  padding: 30px 20px 20px;
+  background-color: #6b6b6b;
+  color: #eeeeee;
+}
+
+.aboutImage {
+  max-width: 100%;
+}
+
+.linkPic {
+  text-align: center;
+}
+
+.middle {
+  padding: 30px;
+  background-color: #6b6b6b;
+}
+
+.carousel {
+  height: auto;
+  width: 100%;
+  z-index: 100;
+  text-align: center;
+}
+
+.feature {
+  position: absolute;
+  height: 400px;
+  width: 1400px;
+  background-color: #fff;
+}
+
+.carText {
+  padding: 20px;
+  background-color: #6b6b6b;
+  color: #eeeeee;
+}
+
+.titleBar {
+  padding: 20px;
+  background-color: #6b6b6b;
+}
+
+.titleText {
+  font-family: 'Montserrat', sans-serif;
+  color: #eeeeee;
+  text-shadow: 2px 2px #2b2b2b;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.proTech {
+  padding: 100px 0 80px;
+}
