@@ -80,7 +80,7 @@ $('.owl-new').owlCarousel({
     loop: true,
     rtl: false,
     margin:50,
-    nav:true,
+    nav:false,
     dots: false,
     stagePadding: 100,
     responsive:{

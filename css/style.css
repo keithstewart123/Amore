@@ -50,7 +50,7 @@ body {
 }
 
 #technologySpot {
-  margin: 80px 0 20px;
+  margin-bottom: 20px;
 }
 
 #productSpot {
@@ -188,13 +188,15 @@ body {
 
 .carText {
   padding: 20px;
-  background-color: #6b6b6b;
+  background-color: #2b2b2b;
+  opacity: .7;
   color: #eeeeee;
 }
 
 .titleBar {
   padding: 10px;
   background-color: #6b6b6b;
+  opacity: .9;
 }
 
 .titleText {
@@ -206,7 +208,7 @@ body {
 }
 
 .proTech {
-  padding: 100px 0 80px;
+  padding-top: 50px;
 }
 
 .owl-carousel .owl-wrapper {
